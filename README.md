@@ -1,5 +1,5 @@
 # Minuta-IA-LK
-Herramienta para tomar reuniones
+# Herramienta Minutas para Reuniones
 <!DOCTYPE html>
 <html lang="es">
 <head>
